@@ -1,6 +1,6 @@
 using System;
 
-// 2018-04-21 03:37:03.151184400 UTC
+// 2018-04-21 14:03:46.001567100 UTC
 
 namespace hazedumper
 {
@@ -47,7 +47,6 @@ namespace hazedumper
         public const Int32 m_iHealth = 0xFC;
         public const Int32 m_iItemDefinitionIndex = 0x2F88;
         public const Int32 m_iItemIDHigh = 0x2FA0;
-        public const Int32 m_iItemIDLow = 0x2FA4;
         public const Int32 m_iObserverMode = 0x334C;
         public const Int32 m_iShotsFired = 0xA2B0;
         public const Int32 m_iState = 0x31F8;
